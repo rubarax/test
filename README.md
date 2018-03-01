@@ -34,5 +34,5 @@ sample: test TransmitFile performance:
   transmitfile: sent 1680.31 MB in 21.03 secs -> 639.18 Mbps/s
   
   $ socketperf.exe -c 192.168.1.55
-  received 1680.31 MB in 21.03 secs -> 639.18 Mbps/s
+  received 1680.31 MB in 21.03 secs -> 637.18 Mbps/s
 ```
