@@ -26,7 +26,7 @@ sample: test transfer with memory generated data (not reading from disk)
   memory: sent 4095.00 MB in 37.03 secs -> 884.69 Mbps/s
   
   $ socketperf.exe -c 192.168.1.55
-  received 4095.00 MB in 37.03 secs -> 884.69 Mbps/s
+  received 4095.00 MB in 38.03 secs -> 884.69 Mbps/s
 ```
 sample: test TransmitFile performance:
 ```
